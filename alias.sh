@@ -1,5 +1,5 @@
 alias k='kubectl'
-alias k='k config view --minify | grep name'
+alias kc='k config view --minify | grep name'
 alias kdp='kubectl describe pod'
 alias krh='kubectl run --help | more'
 alias ugh='kubectl get --help | more'
